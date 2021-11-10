@@ -3,8 +3,8 @@ This app consist on Mainactivity where user entering the data and can see the in
 
 ## First View showing error if fields are empty 
 ## 2. Inserting Data 
-## Updating Record
-## Deleting Records
+## 3. Updating Record
+## 4. Deleting Records
 <img src = https://user-images.githubusercontent.com/92989607/141117907-4a1746dc-8d7f-439c-b8c5-719636dc5aaa.png width="200">
 
 <img src=https://user-images.githubusercontent.com/92989607/141118329-d0337462-1da9-4fbc-9de3-c76c4f5f4916.png width="200">
