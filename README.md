@@ -3,3 +3,4 @@ This app consist on Mainactivity where user entering the data and can see the in
 
 ## First View
 ![1](https://user-images.githubusercontent.com/92989607/141117907-4a1746dc-8d7f-439c-b8c5-719636dc5aaa.png)
+![2](https://user-images.githubusercontent.com/92989607/141117907-4a1746dc-8d7f-439c-b8c5-719636dc5aaa.png)
